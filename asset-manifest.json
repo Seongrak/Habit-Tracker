@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Seongrak/Habit-Tracker/static/css/main.600b9f0a.chunk.css",
-    "main.js": "/Seongrak/Habit-Tracker/static/js/main.8b0b268b.chunk.js",
-    "main.js.map": "/Seongrak/Habit-Tracker/static/js/main.8b0b268b.chunk.js.map",
-    "runtime-main.js": "/Seongrak/Habit-Tracker/static/js/runtime-main.8be6a68f.js",
-    "runtime-main.js.map": "/Seongrak/Habit-Tracker/static/js/runtime-main.8be6a68f.js.map",
-    "static/js/2.59bea16a.chunk.js": "/Seongrak/Habit-Tracker/static/js/2.59bea16a.chunk.js",
-    "static/js/2.59bea16a.chunk.js.map": "/Seongrak/Habit-Tracker/static/js/2.59bea16a.chunk.js.map",
-    "index.html": "/Seongrak/Habit-Tracker/index.html",
-    "static/css/main.600b9f0a.chunk.css.map": "/Seongrak/Habit-Tracker/static/css/main.600b9f0a.chunk.css.map",
-    "static/js/2.59bea16a.chunk.js.LICENSE.txt": "/Seongrak/Habit-Tracker/static/js/2.59bea16a.chunk.js.LICENSE.txt"
+    "main.css": "/Habit-Tracker/static/css/main.600b9f0a.chunk.css",
+    "main.js": "/Habit-Tracker/static/js/main.8b0b268b.chunk.js",
+    "main.js.map": "/Habit-Tracker/static/js/main.8b0b268b.chunk.js.map",
+    "runtime-main.js": "/Habit-Tracker/static/js/runtime-main.802dba56.js",
+    "runtime-main.js.map": "/Habit-Tracker/static/js/runtime-main.802dba56.js.map",
+    "static/js/2.59bea16a.chunk.js": "/Habit-Tracker/static/js/2.59bea16a.chunk.js",
+    "static/js/2.59bea16a.chunk.js.map": "/Habit-Tracker/static/js/2.59bea16a.chunk.js.map",
+    "index.html": "/Habit-Tracker/index.html",
+    "static/css/main.600b9f0a.chunk.css.map": "/Habit-Tracker/static/css/main.600b9f0a.chunk.css.map",
+    "static/js/2.59bea16a.chunk.js.LICENSE.txt": "/Habit-Tracker/static/js/2.59bea16a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8be6a68f.js",
+    "static/js/runtime-main.802dba56.js",
     "static/js/2.59bea16a.chunk.js",
     "static/css/main.600b9f0a.chunk.css",
     "static/js/main.8b0b268b.chunk.js"
